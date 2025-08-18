@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+::-webkit-scrollbar{
+    width: 8px;
+}
+::-webkit-scrollbar-thumb{
+    background: #888;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #555;
+}
