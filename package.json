@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "browser-router": "^0.2.0",
+    "file-saver": "^2.0.5",
+    "file-server": "^2.2.1",
     "jszip": "^3.10.1",
     "livekit-client": "^2.15.5",
     "react": "^19.1.1",
