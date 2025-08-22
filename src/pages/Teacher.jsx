@@ -253,7 +253,7 @@ export default function TeacherDashboard() {
             justifyContent: 'center',
             fontWeight: 'bold'
           }}>
-            <span role="img" aria-label="book">📚</span>
+            <img src="/EduCode.png" alt="EduCode Logo" width={40} height={40} />
           </div>
           <h1 style={{ 
             fontSize: '24px', 
